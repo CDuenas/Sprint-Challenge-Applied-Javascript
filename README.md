@@ -46,6 +46,8 @@ Nodelists are array like but dont provide the same methods that an array does.
 
 5. What is a component?
 
+ A component is a function built of many elements used to create versatile custom elements with encapsulated functionality that can be reused wherever you like.
+
 ### Git Set up
 
 * [ ] Fork the project into your GitHub user account
