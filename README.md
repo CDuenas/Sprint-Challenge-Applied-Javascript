@@ -30,13 +30,23 @@ Edit this document to include your answers after each question. Make sure to lea
 
 1. What is the DOM?
 
+ It is a cross platform interface that treats XML or HTML as a tree structure wherein each node is an object representing a part of the document.
+
 2. What is an event?
+
+actions that occur as a result of the user action or as result of state change of the elements of a DOM tree.
 
 3. What is an event listener?
 
+It is a function that waits for an event to occur and then executes a line of code given to the listener.
+
 4. Why would we convert a NodeList into an Array?
 
+Nodelists are array like but dont provide the same methods that an array does.
+
 5. What is a component?
+
+ A component is a function built of many elements used to create versatile custom elements with encapsulated functionality that can be reused wherever you like.
 
 ### Git Set up
 
